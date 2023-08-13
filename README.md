@@ -1,2 +1,2 @@
 # Sistema-ava
-Ambiente Virtual de Aprendizagem com FastAPI e SQLAlchemy. Recursos de cursos e alunos com validação e serialização. Verificação de curso ativo ao excluir aluno.
+Apresento uma Plataforma de Aprendizagem Online avançada, desenvolvida com as tecnologias FastAPI e SQLAlchemy, que capacita a administração completa de cursos e alunos. A implementação de esquemas Pydantic garante validação precisa e segurança dos dados. Destaco especialmente a funcionalidade inovadora que impede a exclusão de alunos associados a cursos ativos, promovendo a consistência do sistema educacional. Este repositório oferece uma solução robusta e moderna para o cenário educativo contemporâneo, exemplificando as melhores práticas de desenvolvimento e gerenciamento de informações.
